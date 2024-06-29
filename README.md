@@ -34,6 +34,19 @@ npm install
 cd Backend
 npm install
 ```
+### Start Server
+```
+npm start
+```
+### Run the Frontend
+```
+npm run dev
+```
+###  Build Frontend
+```
+npm run build
+npm run start
+```
 
 #  `Contributing`
 <p> Discovered a bug? Have a feature idea? We wholeheartedly encourage contributions! Feel free to create an issue or submit a pull request. Connect with fellow contributors on our Discord server. And, if you find SpotiVibes useful, don’t forget to star ⭐️ the repository or fork it!</p>
